@@ -1,0 +1,22 @@
+Portugal_Provinces = {
+  'Aveiro': 'Aveiro',
+  'Beja': 'Beja',
+  'Braga': 'Braga',
+  'Bragança': 'Bragança',
+  'Castelo Branco': 'Castelo Branco',
+  'Coimbra': 'Coimbra',
+  'Évora': 'Évora',
+  'Faro': 'Faro',
+  'Guarda': 'Guarda',
+  'Leiria': 'Leiria',
+  'Lisboa': 'Lisboa',
+  'Portalegre': 'Portalegre',
+  'Porto': 'Porto',
+  'Santarém': 'Santarém',
+  'Setúbal': 'Setúbal',
+  'Viana do Castelo': 'Viana do Castelo',
+  'Vila Real': 'Vila Real',
+  'Viseu': 'Viseu',
+  'Região Autónoma dos Açores': 'Região Autónoma dos Açores',
+  'Região Autónoma da Madeira': 'Região Autónoma da Madeira'
+}

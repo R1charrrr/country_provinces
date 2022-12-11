@@ -1,0 +1,21 @@
+Spain_Provinces = {
+    'Andalucia': 'Sevilla',
+    'Aragon': 'Zaragoza',
+    'Asturias': 'Oviedo',
+    'Baleares': 'Palma',
+    'Canarias': 'Las Palmas',
+    'Cantabria': 'Santander',
+    'Castilla y Leon': 'Valladolid',
+    'Castilla-La Mancha': 'Toledo',
+    'Cataluña': 'Barcelona',
+    'Ceuta': 'Ceuta',
+    'Comunidad Valenciana': 'Valencia',
+    'Extremadura': 'Badajoz',
+    'Galicia': 'Santiago de Compostela',
+    'La Rioja': 'Logrono',
+    'Madrid': 'Madrid',
+    'Melilla': 'Melilla',
+    'Murcia': 'Murcia',
+    'Navarra': 'Pamplona',
+    'Pais Vasco': 'Vitoria'
+}
