@@ -1,0 +1,18 @@
+Kazahstan_Provinces = {
+    'Akmola': 'AKM',
+    'Aktobe': 'AKT',
+    'Almaty': 'ALA',
+    'Atyrau': 'ATY',
+    'East Kazakhstan': 'VKO',
+    'Jambyl': 'ZHA',
+    'Karaganda': 'KAR',
+    'Kostanay': 'KUS',
+    'Kyzylorda': 'KZY',
+    'Mangystau': 'MAN',
+    'North Kazakhstan': 'SEV',
+    'Pavlodar': 'PAV',
+    'Turkestan': 'YUZ',
+    'West Kazakhstan': 'ZAP',
+    'Atyrau': 'ATY',
+    'West Kazakhstan': 'ZAP',
+    }
