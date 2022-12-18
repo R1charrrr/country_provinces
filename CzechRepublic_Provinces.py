@@ -1,0 +1,16 @@
+CzechRepublic_Provinces = {
+    'Hlavní město Praha': 'Praha',
+    'Jihočeský kraj': 'Jihočeský',
+    'Jihomoravský kraj': 'Jihomoravský',
+    'Karlovarský kraj': 'Karlovarský',
+    'Královéhradecký kraj': 'Královéhradecký',
+    'Liberecký kraj': 'Liberecký',
+    'Moravskoslezský kraj': 'Moravskoslezský',
+    'Olomoucký kraj': 'Olomoucký',
+    'Pardubický kraj': 'Pardubický',
+    'Plzeňský kraj': 'Plzeňský',
+    'Středočeský kraj': 'Středočeský',
+    'Ústecký kraj': 'Ústecký',
+    'Vysočina': 'Vysočina',
+    'Zlínský kraj': 'Zlínský',
+}

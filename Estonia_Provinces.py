@@ -1,0 +1,17 @@
+Estonia_Provinces = {
+    "Harjumaa": "Harju maakond",
+    "Hiiumaa": "Hiiu maakond",
+    "Ida-Virumaa": "Ida-Viru maakond",
+    "Jõgevamaa": "Jõgeva maakond",
+    "Järvamaa": "Järva maakond",
+    "Läänemaa": "Lääne maakond",
+    "Lääne-Virumaa": "Lääne-Viru maakond",
+    "Põlvamaa": "Põlva maakond",
+    "Pärnumaa": "Pärnu maakond",
+    "Raplamaa": "Rapla maakond",
+    "Saaremaa": "Saare maakond",
+    "Tartumaa": "Tartu maakond",
+    "Valgamaa": "Valga maakond",
+    "Viljandimaa": "Viljandi maakond",
+    "Võrumaa": "Võru maakond",
+}
